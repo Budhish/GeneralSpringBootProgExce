@@ -30,7 +30,7 @@
       <repositories>
        <repository>
         <id>springfeed</id>                 
-         <url>https://pkgs.dev.azure.com/SenthilAlagarsamy/az_artifact_demo/_packaging/springfeed/maven/v1</url>
+         <url>https://pkgs.dev.azure.com/Azuremadan1122/az_artifact_demo/_packaging/feed1/maven/v1</url>
           <releases>
               <enabled>true</enabled>
           </releases>
